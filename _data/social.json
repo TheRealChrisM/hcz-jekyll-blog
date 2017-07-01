@@ -15,4 +15,8 @@
     "icon": "fa-stack-exchange",
     "link": "https://stackexchange.com/users/11236525/"
   }
+  {
+    "icon": "fa-feed",
+    "link": "chrismarotta.me/feed.xml"
+  }
 ]
