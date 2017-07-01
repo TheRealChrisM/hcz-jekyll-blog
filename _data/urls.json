@@ -16,11 +16,6 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
-  },
-  {
     "text": "Github",
     "url": "https://github.com/TheRealChrisM",
     "icon": "fa-github"
