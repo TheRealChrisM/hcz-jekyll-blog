@@ -18,6 +18,7 @@
   {
     "text": "Github",
     "url": "https://github.com/TheRealChrisM",
-    "icon": "fa-github"
+    "icon": "fa-github",
+    "target": "_blank"
   }
 ]
