@@ -14,9 +14,8 @@ disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: /therealchrism_
-  fb_appid: 1622482361127293
-
+  twitter_username: \#
+  fb_appid: 000000000000
 
 enableTags: true
 tagarray: []
