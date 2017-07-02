@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Post"
 date:   2017-07-01 23:43:00
-categories: other
+categories: others
 ---
 
 Hello! This is the first of hopefully many other posts on this blog. I plan on talking about the many different things I have done or learned in my quest to learn more about Cyber Security and Programming. In terms of cybersecurity I have spent a lot of time with linux, more specifically Ubuntu. I have also been learning a lot about web development with hopes of becomming a full stack developer. So my experience in programming and computer security tend to blend together pretty well!
