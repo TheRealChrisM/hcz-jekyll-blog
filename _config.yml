@@ -6,11 +6,11 @@ github: https://github.com/TheRealChrisM
 about: Cybersecurity Novice
 
 baseurl: ""
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "http://chrismarotta.me/"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: 
 google_analytics: UA-72862926-1
 
 share:
